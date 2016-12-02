@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="ask">Digite o número abaixo:</string>
+    <string name="send">Calcular</string>
+</resources>
